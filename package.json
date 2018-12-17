@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "prettier": "^1.15.3",
-    "rollup": "^0.68.0"
+    "rollup": "^0.68.0",
+    "serve": "^10.1.1"
   }
 }

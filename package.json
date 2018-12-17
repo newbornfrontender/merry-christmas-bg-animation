@@ -1,0 +1,9 @@
+{
+  "name": "merry-christmas-bg-animation",
+  "version": "1.0.0",
+  "description": "Simple \"Merry Christmas\" web-component uses a background animation",
+  "repository": "https://github.com/newbornfrontender/merry-christmas-bg-animation.git",
+  "author": "Infant Frontender <newbornfrontender@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
